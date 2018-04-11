@@ -1,0 +1,12 @@
+c:\users\ilja\documents\visual studio 2017\Projects\Lesson 7\Дополнительное задание\bin\Debug\Дополнительное задание.exe.config
+c:\users\ilja\documents\visual studio 2017\Projects\Lesson 7\Дополнительное задание\bin\Debug\Дополнительное задание.exe
+c:\users\ilja\documents\visual studio 2017\Projects\Lesson 7\Дополнительное задание\bin\Debug\Дополнительное задание.pdb
+c:\users\ilja\documents\visual studio 2017\Projects\Lesson 7\Дополнительное задание\obj\Debug\Дополнительное задание.csprojResolveAssemblyReference.cache
+c:\users\ilja\documents\visual studio 2017\Projects\Lesson 7\Дополнительное задание\obj\Debug\Дополнительное задание.exe
+c:\users\ilja\documents\visual studio 2017\Projects\Lesson 7\Дополнительное задание\obj\Debug\Дополнительное задание.pdb
+C:\Users\ilja\Desktop\Дополнительное задание\bin\Debug\Дополнительное задание.exe.config
+C:\Users\ilja\Desktop\Дополнительное задание\bin\Debug\Дополнительное задание.exe
+C:\Users\ilja\Desktop\Дополнительное задание\bin\Debug\Дополнительное задание.pdb
+C:\Users\ilja\Desktop\Дополнительное задание\obj\Debug\Дополнительное задание.csprojResolveAssemblyReference.cache
+C:\Users\ilja\Desktop\Дополнительное задание\obj\Debug\Дополнительное задание.exe
+C:\Users\ilja\Desktop\Дополнительное задание\obj\Debug\Дополнительное задание.pdb
